@@ -11,15 +11,15 @@ const supportLinks = [
 		name: 'Sales',
 		href: 'https://forms.zohopublic.com/remotedatabackupsinc/form/Connected/formperma/iVBbPlNtU7yBt2-1d9Tje5I1s0GPHbm42sjqbij4UMI',
 		description:
-			'Online computer backups and recovery services for PC and Mac at affordable prices and 365/24/7 US based support team. If you need server backup please contact Remote Data Backups to discuss your needs and the best solution.',
+			'Online computer backups and recovery services for PC and Mac at affordable prices and 365/24/7 US based support team. If you need server backup please call Remote Data Backups at 866-722-2587 to discuss your needs.  For PC or Mac click below to get started now.',
 		icon: PhoneIcon,
-		linktext: 'Contact Sales',
+		linktext: 'Sign Up for PC/Mac Backup',
 	},
 	{
 		name: 'Technical Support',
 		href: 'https://supportticket.remotedatabackups.com/remotedatabackupsinc/form/Support/formperma/F3mB95M5_H94hJ9h25b16_k9E',
 		description:
-			'Do you need help with your backup or recovery? Call us or start a support case! Remote Data Backups is here to help with any issues you may have, free of charge. Phone support is provided 24/7. Allow up to one business day for email support.',
+			'Do you need help with your backup or recovery? Call us or start a support case! Remote Data Backups is here to help with any issues you may have, free of charge. Phone support is provided 24/7 at 866-722-2587. Allow up to one business day for email support.',
 		icon: LifebuoyIcon,
 		linktext: 'Open Support Ticket',
 	},
