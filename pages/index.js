@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import { NextSeo } from 'next-seo';
 
 import {
 	LifebuoyIcon,
@@ -36,9 +37,9 @@ const supportLinks = [
 export default function Home() {
 	return (
 		<div>
+			<NextSeo title="BackUp Solutions" description="Online Computer Backups" />
+
 			<Head>
-				<title>BackUp Solutions, Inc.</title>
-				<meta name="description" content="BackUp Solutions Website" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 
